@@ -26,18 +26,6 @@ La empresa enfrenta una **alta tasa de abandono (Churn Rate: 26.54%)**, donde **
 - Factores clave que impulsan el abandono.  
 - Segmentos de clientes de alto riesgo.  
 - Estrategias concretas para reducir el Churn.  
-
----
-## Tecnologías
-
- -  Python
- -  Colab Notebook
- -  NumPy
- -  Pandas
- -  Seaborn
- -  Matplotlib
- -  Plotly
-
 --- 
 
 ## 📌 HALLAZGOS CLAVE  
@@ -108,4 +96,15 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
 - Monitorear resultados con un **dashboard mensual**.  
 
 --- 
+## Tecnologías
+---
+ -  Python
+ -  Colab Notebook
+ -  NumPy
+ -  Pandas
+ -  Seaborn
+ -  Matplotlib
+ -  Plotly
+
+ ---
 
