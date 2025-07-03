@@ -15,10 +15,10 @@ Como parte del equipo, tu tarea consiste en recopilar, procesar y analizar los d
 A partir de estos hallazgos, el equipo de Data Science podrá avanzar en el desarrollo de modelos predictivos y diseñar estrategias efectivas para
 reducir la tasa de evasión.
 
-✅ Importar y manipular datos desde una API de manera eficiente.
-✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
-✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
-✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
+-✅ Importar y manipular datos desde una API de manera eficiente.
+-✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
+-✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
+-✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 ---
 
 ## 🔍 RESUMEN  
