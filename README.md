@@ -32,6 +32,17 @@ reducir la tasa de evasión.
 
 ---
 
+## 🚀 Instrucciones para Ejecutar el Notebook
+
+### 📥 Clonar el Repositorio
+```bash
+git clone https://github.com/iriscob/TelecomX_LATAM.git
+cd TelecomX_LATAM
+
+
+
+---
+
 ## 🔍 RESUMEN  
 La empresa enfrenta una **alta tasa de abandono (Churn Rate: 26.54%)**, donde **1 de cada 4 clientes cancela su servicio**. Este informe identifica:  
 - Factores clave que impulsan el abandono.  
