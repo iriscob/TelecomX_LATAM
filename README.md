@@ -21,6 +21,23 @@ reducir la tasa de evasión.
 - Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 ---
 
+
+-   Carga de datos (JSON)
+    Lectura de los datos desde un archivo JSON alojado en un repositorio remoto.
+
+-   Normalización de datos
+    Transformación de estructuras anidadas en un formato tabular utilizando pandas.json_normalize.
+
+-   Verificación y limpieza de datos
+    Detección y eliminación de valores nulos (NaN), vacíos ('') y registros duplicados para garantizar la calidad del dataset.
+
+-   Conversión de tipos de datos
+    Asignación de tipos de datos más eficientes (como category, int8, float32) para optimizar el uso de memoria y facilitar el análisis.
+
+-   Análisis exploratorio y visualización
+    Generación de gráficos y estadísticas descriptivas para identificar patrones relacionados con la cancelación del servicio (churn).
+
+
 ## 🔍 RESUMEN  
 La empresa enfrenta una **alta tasa de abandono (Churn Rate: 26.54%)**, donde **1 de cada 4 clientes cancela su servicio**. Este informe identifica:  
 - Factores clave que impulsan el abandono.  
