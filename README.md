@@ -5,7 +5,20 @@ INFORME FINAL: ANÁLISIS DE CHURN Y ESTRATEGIAS DE RETENCIÓN
 **Empresa:** TelecomX  
 **Fecha:** `3 de julio de 2025`  
 **Elaborado por:** `Iván Risco Barría`  
+---
 
+## Objetivo
+El proyecto "Churn de Clientes" surge ante la necesidad de abordar una alta tasa de cancelaciones 'Churn' que afecta a la empresa. El objetivo es
+comprender qué factores están asociados a la pérdida de clientes, a fin de tomar decisiones informadas.
+
+Como parte del equipo, tu tarea consiste en recopilar, procesar y analizar los datos utilizando Python y sus principales bibliotecas de análisis.
+A partir de estos hallazgos, el equipo de Data Science podrá avanzar en el desarrollo de modelos predictivos y diseñar estrategias efectivas para
+reducir la tasa de evasión.
+
+✅ Importar y manipular datos desde una API de manera eficiente.
+✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
+✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
+✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 ---
 
 ## 🔍 RESUMEN  
@@ -15,6 +28,17 @@ La empresa enfrenta una **alta tasa de abandono (Churn Rate: 26.54%)**, donde **
 - Estrategias concretas para reducir el Churn.  
 
 ---
+## Tecnologías
+
+ -  Python 3.x
+ -  Jupyter Notebook
+ -  NumPy
+ -  Pandas
+ -  Seaborn
+ -  Matplotlib
+ -  Plotly
+
+--- 
 
 ## 📌 HALLAZGOS CLAVE  
 
@@ -55,7 +79,7 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
 
 ## 🛠 ESTRATEGIAS DE RETENCIÓN  
 
-| **Estrategia**                          | **Acción**                                                                 | **Beneficio Esperado** |  
+| **Estrategia**                          | **Ejemplos de Acción**                                                                 | **Beneficio Esperado** |  
 |-----------------------------------------|---------------------------------------------------------------------------|-----------------------|  
 | **Migrar a contratos largos**           | Ofrecer **10-15% de descuento** para cambiar a 1-2 años.                  | ↓ 8-10% Churn         |  
 | **Incentivar pagos automáticos**        | **5% de descuento** por usar Bank transfer/Credit card (auto).            | ↓ 12% abandonos       |  
@@ -64,7 +88,7 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
 
 ---
 
-## 📈 MÉTRICAS DE ÉXITO  
+## 📈 MÉTRICAS DE ÉXITO PARA LOGROS
 | **Objetivo**                     | **Meta (6 meses)** |  
 |-----------------------------------|--------------------|  
 | Reducir Churn Rate                | <20%               |  
