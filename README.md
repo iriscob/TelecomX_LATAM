@@ -107,7 +107,19 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
 - Monitorear resultados con un **dashboard mensual**.  
 
 --- 
-## Tecnologías
+## Como ejecutar el Notebook
+---
+ -  Python
+ -  Jupyter Notebook 
+ -  NumPy
+ -  Pandas
+ -  Seaborn
+ -  Matplotlib
+ -  Plotly
+
+---
+--- 
+## Tecnologías Utilizadas
 ---
  -  Python
  -  Jupyter Notebook 
@@ -118,4 +130,5 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
  -  Plotly
 
  ---
+
 
