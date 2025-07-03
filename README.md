@@ -34,10 +34,31 @@ reducir la tasa de evasión.
 
 ## 🚀 Instrucciones para Ejecutar el Notebook
 
-### 📥 Clonar el Repositorio
-```bash
+### 
+-📥 Clonar el Repositorio
 git clone https://github.com/iriscob/TelecomX_LATAM.git
 cd TelecomX_LATAM
+
+-🐍 Configuración del Entorno (Recomendado)
+
+# Crear entorno virtual (Python 3.8+)
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+.\venv\Scripts\activate  # Windows
+
+# Instalar dependencias
+pip install pandas matplotlib seaborn numpy jupyter scikit-learn
+
+# Ejecutar el Notebook
+
+- Opción 1: Jupyter Notebook
+  jupyter notebook TelecomX_LATAM.ipynb
+
+- Opción 2: Jupyter Lab
+  jupyter lab
+
+- Opción 3: VS Code
+  Abre la carpeta en VS Code y ejecuta las celdas
 
 
 
