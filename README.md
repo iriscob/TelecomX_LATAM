@@ -99,7 +99,7 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
 ## Tecnologías
 ---
  -  Python
- -  Colab Notebook
+ -  Jupyter Notebook 
  -  NumPy
  -  Pandas
  -  Seaborn
