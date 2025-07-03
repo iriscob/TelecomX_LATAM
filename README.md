@@ -3,8 +3,7 @@ Análisis de Evasión de Clientes
 INFORME FINAL: ANÁLISIS DE CHURN Y ESTRATEGIAS DE RETENCIÓN
 # 📊 INFORME FINAL: ANÁLISIS DE CHURN Y ESTRATEGIAS DE RETENCIÓN  
 **Empresa:** TelecomX  
-**Fecha:** `3 de julio de 2025`  
-**Elaborado por:** `Iván Risco Barría`  
+ 
 ---
 
 ## Objetivo
@@ -162,5 +161,6 @@ Clientes con contratos cortos y pagos manuales son los de **mayor riesgo**.
  -  Plotly
 
  ---
-
+**Fecha:** `3 de julio de 2025`  
+**Elaborado por:** `Iván Risco Barría` 
 
